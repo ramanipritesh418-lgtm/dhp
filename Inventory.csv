@@ -1,0 +1,11 @@
+item_id,item_name,category,qty,unit_price
+1,Laptop,Electronics,5,50000.0
+2,Mouse,Electronics,20,500.0
+3,Keyboard,Electronics,15,1200.0
+4,Chair,Furniture,10,3500.0
+5,Table,Furniture,6,7000.0
+6,Notebook,Stationery,50,80.0
+7,Pen,Stationery,100,20.0
+8,Printer,Electronics,3,15000.0
+9,Bag,Accessories,12,1200.0
+10,Bottle,Accessories,25,400.0
